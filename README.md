@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Luke McMeans
+Computer Science and Data Science student at the University of Virginia
 <!--
 **McMeans/McMeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
