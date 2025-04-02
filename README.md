@@ -1,4 +1,4 @@
-"_Excelence is the difference between what you do and what you're capable of._"  
+"_Excellence is the difference between what you do and what you're capable of._"  
 &emsp;- A fortune cookie
 <!--
 **McMeans/McMeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
